@@ -16,6 +16,9 @@
 
 #### The raw data is available as Diwali sales data.csv file and after doing the analysis the completed file is available as cleaned diwali sales.csv file
 
+## Conclusion
+"Married women aged 26-35 years from Uttar Pradesh, Maharashtra, and Karnataka, working in the IT, Healthcare, and Aviation sectors, are the primary consumers, showing a strong preference for purchasing products in the Food, Clothing, and Electronics categories during Diwali."
+
 # INSIGHTS (CHARTS PRESENTATION)
 
 ![Image](https://github.com/user-attachments/assets/be5d4dc9-c80b-4e8e-a4f6-e0cfe86a08fa)
